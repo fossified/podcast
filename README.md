@@ -8,7 +8,7 @@ Hosts:
 
 * Henrik Sandklef [github](https://github.com/hesa) | [mastdodon](https://mastodon.social/@hesa) | [twitter](https://twitter.com/henriksandklef) | [compliance blog](https://software-compliance.se) | [linkedin](https://www.linkedin.com/in/henrik-sandklef) 
 
-* Johan Thelin [github](https://github.com/e8johan) 
+* Johan Thelin [github](https://github.com/e8johan)  | [Mastodon](https://social.linux.pizza/@e8johan) | [blog](http://www.thelins.se/johan/blog/) | [linkedin](https://www.linkedin.com/in/johanthelin/)
 
 * Magnus Hagander [github](https://github.com/mhagander) | [twitter](https://twitter.com/magnushagander) | [blog](https://blog.hagander.net/)
 
