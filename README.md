@@ -22,3 +22,6 @@ https://pod.fossified.com/podcast.rss
 
 We would love to get proposal on topics and guests for the podcast. Simply [create an issue](https://github.com/fossified/podcast/issues).
 
+## Vote
+
+Vote on your favorite suggested topics by using the :+1: (thumbs-up) on the issues of your liking.
