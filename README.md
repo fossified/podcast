@@ -12,6 +12,10 @@ Hosts:
 
 * Magnus Hagander [github](https://github.com/mhagander) | [twitter](https://twitter.com/magnushagander) | [blog](https://blog.hagander.net/)
 
+# RSS
+
+https://pod.fossified.com/podcast.rss
+
 # Contribute
 
 ## Propose topics, guests
