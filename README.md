@@ -16,6 +16,8 @@ Hosts:
 
 https://pod.fossified.com/podcast.rss
 
+You can also listen to the podcast in [audible/Amazon](https://www.audible.co.uk/pd/Fossified-Podcast/B0BX4MY46B?action_code=ASSGB149080119000H&share_location=pdp), Apple, [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2QuZm9zc2lmaWVkLmNvbS9wb2RjYXN0LnJzcw) and [Spotify](https://open.spotify.com/show/4KzoliGPJ5x2loJDTQKlY5?si=ae9c0c4ea5614482)
+
 # Contribute
 
 ## Propose topics, guests
